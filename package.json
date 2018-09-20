@@ -1,5 +1,5 @@
 {
-  "name": "xsh_note",
+  "name": "note_v1.2s",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "谢少华 <775473732@qq.com>",
@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "iview": "^3.1.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
